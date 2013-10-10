@@ -1,0 +1,29 @@
+
+body {background-image:url('http://www.hdwallpapersplus.com/wp-content/uploads/2012/10/Opera-Background-Blue-Swirls1.jpg');
+font-size: 20px; 
+}
+
+#color1 {
+color: dodgerblue;
+}
+
+#color2 {
+color: blue; 
+}
+
+#color3 {
+color: dodgerblue;
+}
+
+#color4 {
+color: steelblue;
+}
+
+#color5 {
+color: mediumblue;
+}
+
+
+
+li {list-style-type: none;
+}
